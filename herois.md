@@ -36,3 +36,7 @@
 - Poder, habilitat o tecnologia principal: Espionatge, combat cos a cos i infiltració.
 - Origen: Antiga agent entrenada en operacions secretes.
 - Funció dins de la saga: Especialista en espionatge i missions d'infiltració.
+
+## Relació entre herois
+
+Iron Man i Captain America desenvolupen una relació basada en el contrast entre la tecnologia i el lideratge tradicional. Tot i les seves diferències, aprenen a confiar l'un en l'altre quan han de prendre decisions importants per protegir l'equip.

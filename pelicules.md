@@ -20,3 +20,10 @@
 - Escenari principal: La Terra i diversos escenaris còsmics.
 - Resum: Els herois han d'afrontar una amenaça que supera les fronteres del planeta i posar a prova la seva capacitat per treballar com un equip.
 - Relació amb la història: Correspon als capítols 4 i 5.
+
+## 4. El llegat dels Avengers
+- Protagonistes: Els Avengers i els nous herois.
+- Antagonista: Una nova organització tecnològica.
+- Escenari principal: Una ciutat reconstruïda després de les batalles anteriors.
+- Resum: Els herois han de protegir el planeta mentre una nova generació comença a assumir responsabilitats.
+- Relació amb la història: Continua els esdeveniments dels capítols 4 i 5.
