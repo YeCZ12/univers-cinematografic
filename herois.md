@@ -1,4 +1,3 @@
-```
 # Superherois
 
 ## Iron Man
@@ -6,6 +5,7 @@
 - Poder, habilitat o tecnologia principal: Armadura tecnològica avançada.
 - Origen: Empresari i inventor que crea una armadura per sobreviure i protegir els altres.
 - Funció dins de la saga: Estratega i principal expert tecnològic de l'equip.
+- Història ampliada: Amb el temps, Tony Stark aprèn que la tecnologia no només serveix per defensar-se, sinó també per protegir els seus companys.
 
 ## Spider-Man
 - Nom: Peter Parker
@@ -24,4 +24,15 @@
 - Poder, habilitat o tecnologia principal: Habilitats físiques millorades, vestit de vibrani i tecnologia de Wakanda.
 - Origen: Rei de Wakanda i protector de la nació.
 - Funció dins de la saga: Protector de Wakanda i aliat estratègic dels Avengers.
-```
+
+## Thor
+- Nom: Thor Odinson
+- Poder, habilitat o tecnologia principal: Control del llamp i força sobrehumana.
+- Origen: Príncep d'Asgard i guerrer d'un món extraterrestre.
+- Funció dins de la saga: Combatent principal contra amenaces de gran escala.
+
+## Black Widow
+- Nom: Natasha Romanoff
+- Poder, habilitat o tecnologia principal: Espionatge, combat cos a cos i infiltració.
+- Origen: Antiga agent entrenada en operacions secretes.
+- Funció dins de la saga: Especialista en espionatge i missions d'infiltració.
